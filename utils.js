@@ -1,1 +1,1 @@
-alert("salom");
+console.log("utils.js");
